@@ -1,6 +1,6 @@
 ## Filtro FIR
-Projeto para a VF
-#Descrição do Projeto
+
+# Descrição do Projeto
 
 O objetivo desse projeto é utilizar o microcontrolador STM32F746 para
 receber uma amostra de aúdio, para então filtra-lo e devolver a amostra resultante.
@@ -17,7 +17,7 @@ Além disso, será utilizada a funcionalidade da FFT (Direta e Inversa), pois a 
 
 
 
-#Fluxograma
+# Fluxograma
 
-#Diagrama de blocos
+# Diagrama de blocos
 
