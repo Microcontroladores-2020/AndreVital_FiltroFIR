@@ -18,6 +18,7 @@ Além disso, será utilizada a funcionalidade da FFT (Direta e Inversa), pois a 
 
 
 # Fluxograma
+![fluxograma](https://github.com/Microcontroladores-2020/AndreVital_FiltroFIR/blob/master/assets/fluxograma.jpg)
 
 # Diagrama de blocos
-
+![Diagrama de blocos](https://github.com/Microcontroladores-2020/AndreVital_FiltroFIR/blob/master/assets/diagrama_de_blocos.png)
